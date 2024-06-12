@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = StaticExercise
-build_property.ProjectDir = D:\CSharp\TC\repos\StaticExercise\
+build_property.ProjectDir = D:\MyFiles\CSharp\TC\repos\StaticExercise\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

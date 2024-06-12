@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gn6H6sOWbyE3r4oK8NvRSww8D2B68FzEB2SQZ3np0fd+SsL1EU/KYbg4hlUtn3KkuYaopjk/CBiCeKjG6yi5Ng==",
+  "dgSpecHash": "szO/m96NsjCkC+lVfUQi2aLmYE1XPuOPIsRpYxahJKsFVFuiI8TUWUraQyRhoxOpqkIR6RaI4hNn8D7Y875ImQ==",
   "success": true,
-  "projectFilePath": "D:\\CSharp\\TC\\repos\\StaticExercise\\StaticExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\MyFiles\\CSharp\\TC\\repos\\StaticExercise\\StaticExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dyoun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dyoun\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dyoun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dyoun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
